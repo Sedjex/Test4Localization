@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 935899b62f48ae5498594680ed17d133, type: 3}
-  m_Name: Demo Database
+  m_Name: Demo Database (Auto-Backup)
   m_EditorClassIdentifier: 
   version: 1.5.1.0
   author: Pixel Crushers
@@ -1457,7 +1457,7 @@ MonoBehaviour:
     - id: 4
       fields:
       - title: Title
-        value: 
+        value: New Dialogue Entry
         type: 0
         typeString: CustomFieldType_Text
       - title: Pictures
@@ -1501,8 +1501,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: ua
-        value: "\u0414\u043E\u043F\u043E\u043C\u043E\u0436\u0438 \u043C\u0435\u043D\u0456
-          \u043F\u0435\u0440\u0435\u0431\u0438\u0442\u0438 \u0440\u0443\u0441\u043D\u044E."
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       conversationID: 2
@@ -1602,7 +1601,7 @@ MonoBehaviour:
     - id: 6
       fields:
       - title: Title
-        value: 
+        value: New Dialogue Entry
         type: 0
         typeString: CustomFieldType_Text
       - title: Pictures
@@ -1646,7 +1645,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: ua
-        value: "\u0417\u0430\u043B\u044E\u0431\u043A\u0438!"
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       conversationID: 2
