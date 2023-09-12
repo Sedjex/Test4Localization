@@ -1307,7 +1307,7 @@ MonoBehaviour:
     - id: 2
       fields:
       - title: Title
-        value: New Dialogue Entry
+        value: 
         type: 0
         typeString: CustomFieldType_Text
       - title: Pictures
@@ -1351,7 +1351,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: ua
-        value: 
+        value: "\u0457\u0445 5 \u0448\u0442\u0443\u043A"
         type: 4
         typeString: CustomFieldType_Localization
       conversationID: 2
@@ -1674,7 +1674,7 @@ MonoBehaviour:
     - id: 7
       fields:
       - title: Title
-        value: New Dialogue Entry
+        value: 
         type: 0
         typeString: CustomFieldType_Text
       - title: Pictures
@@ -1718,7 +1718,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: ua
-        value: 
+        value: "\u044F \u0437\u0430\u043F\u0443\u0449\u0443 \u0434\u0440\u043E\u043D"
         type: 4
         typeString: CustomFieldType_Localization
       conversationID: 2
@@ -1736,7 +1736,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 396
+        x: 395
         y: 120
         width: 160
         height: 30
