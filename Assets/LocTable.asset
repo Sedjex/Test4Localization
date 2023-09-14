@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4db626ad063b13545924a9839ac5fa83, type: 3}
+  m_Name: LocTable
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 94fe3fab18c374b88b3387766b71a357, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 3807e4a74d5ae4067888be720cd8826f, type: 2}
+  - {fileID: 11400000, guid: 4894f5dff6e7a4c40aa9434a82df9d85, type: 2}
+  - {fileID: 11400000, guid: b6cf6feb7cd024d75819b285afe69e7d, type: 2}
+  m_Extensions: []
+  m_Group: Asset Table
+  references:
+    version: 2
+    RefIds: []
